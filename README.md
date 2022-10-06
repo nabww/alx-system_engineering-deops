@@ -1,1 +1,1 @@
-This is the devops readme
+This project is an introduction to System Engineering Devops
