@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script displys "Best School" 10 times using while loop
+
+i = 0; while [$1 -le 9]; do echo "Best School"; ((i++)); done
